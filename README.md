@@ -12,7 +12,8 @@ Grafik ini menampilkan data container yang masuk/import dan pendapatan yang dipe
 Grafik ini menampilkan data container yang keluar/export dan pendapatan yang diperoleh setiap minggunya.
 ![](images/outbound.png)
 ### Revenue Export & Import
-Grafik ini memperlihatkan pendapatan dari masing-masing aktivitas operasional yang ada dalam depot yang dibagi kedalam setiap minggu. 
+Grafik ini memperlihatkan pendapatan dari masing-masing aktivitas operasional yang ada dalam depot yang dibagi kedalam setiap minggu.
+
 ![](images/revenue.png)
 - Import, yaitu aktivitas container masuk.
 - Export, yaitu aktivitas container keluar.
