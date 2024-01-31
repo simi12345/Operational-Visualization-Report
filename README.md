@@ -24,7 +24,7 @@ TRT yaitu waktu tunggu yang setiap truck dalam melakukan aktivitas export dan im
 ![](images/trt.png)
 ### Target Export & Import
 Grafik ini memperlihatkan perbandingan antara valume export, import dibandingkan dengan target yang ingin dicapai perusahaan.
-![](images/target.png)
+![](images/terget.png)
 ### Repair Productivity
 Grafik ini menunjukkan produktivitas dari kegiatan perbaikan container setiap minggunya. Jadi setiap container yang rusak memiliki KPI 5 hari harus sudah selesai, untuk container masuk yang rusak dan belum sempat diperbaiki akan beralih perbaikannya di minggu berikutnya.
 ![](images/repairp.png)
