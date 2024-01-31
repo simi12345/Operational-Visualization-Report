@@ -6,10 +6,11 @@ Report ini bertujuan untuk mempresentasikan aktivitas operasional depot containe
 ## Data Visualization
 ### Inbound and Revenue
 Grafik ini menampilkan data container yang masuk/import dan pendapatan yang diperoleh setiap minggunya.
+![](images/inbound.png)
 
 ### Outbound and Revenue
 Grafik ini menampilkan data container yang keluar/export dan pendapatan yang diperoleh setiap minggunya.
-
+![](images/outbound.png)
 ### Revenue Export & Import
 Grafik ini memperlihatkan pendapatan dari masing-masing aktivitas operasional yang ada dalam depot yang dibagi kedalam setiap minggu. 
 
