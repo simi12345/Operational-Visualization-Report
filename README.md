@@ -1,7 +1,7 @@
 # Operational-Visualization-Report
 Report ini bertujuan untuk mempresentasikan aktivitas operasional depot container selama seminggu.
 ## Data Cleaning
-- Data diperolah dari sistem internal depot container (DMS)
+- Data diperolah dari sistem internal depot container Depot Management System (DMS)
 
 ## Data Visualization
 ### Inbound and Revenue
